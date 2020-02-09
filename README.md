@@ -12,4 +12,4 @@ All testing done on Kali, with a default `root` user.
 `alias nc="/usr/bin/python3 <path to AudioCatcher.py>"`
 
 ## Tips
-Might be better to hardcode the filepath for "headshot.wav", right now it's set to `~/AudioCatcher/headshot.wav`
+Might be better to hardcode the filepath for `headshot.wav`,right now it's set to `~/AudioCatcher/headshot.wav`
