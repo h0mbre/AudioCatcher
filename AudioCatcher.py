@@ -12,7 +12,7 @@ def check():
 		sys.exit(1)	
 
 def play():
-	playsound('headshot.wav')
+	playsound('~/AudioCatcher/headshot.wav')
 
 def netcat():
 	command = ("nc {0} {1}".format(sys.argv[1],sys.argv[2]) + " 2>&1 | tee 1rwN2S.txt")
