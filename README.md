@@ -7,3 +7,6 @@ All testing done on Kali, with a default `root` user.
 ## Installation
 
 `pip3 install -r requirements.txt`
+
+## Bashrc Alias??
+`alias nc="/usr/bin/python3 <path to AudioCatcher.py>"`
